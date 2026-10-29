@@ -62,5 +62,8 @@ El trabajo presenta una estructura correcta y utiliza adecuadamente varios eleme
 ---
 
 ## D. Respuesta y correcciones del propietario del proyecto
+| | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
+|---|---|---|---|---|
+| **P1** | *( Ampliar la información brindada para abarcar completamente todos los puntos necesarios.)* | **Aceptada.** *( mejora la claridad y la ortografía sin cambiar el sentido del texto.)* | En `cms.md`: corregida la ortografía ("encargado", "Monolíticos", "vídeo", espacios tras las comas). Ampliadas las secciones ¿Qué es un CMS?, Funcionamiento (paso a paso) y Tipos (licencia y arquitectura). Los ejemplos pasan a tabla. Mejorada la redacción de la tabla comparativa. [Enlace al commit]([https://github.com/Gortegas1111/tarea_cms_ssg/commit/HASH](https://github.com/Gortegas1111/tarea_cms_ssg/pull/2/changes/f8f8f42846d8fc6e9e213d8b3248a90dcaca44bf)) | `Corrige ortografía y amplía contenido de cms.md` |
+| **P2** | *(Corregir algunas faltas ortográficas como las mayúsculas y tildes.)* | **Aceptada.** *(Ajusta el motivo a la propuesta.)* | En `ssg.md`: reescrita la primera frase, corregidas las mayúsculas en los encabezados (Ventajas, Vídeo), la ruta de la imagen (`\` → `/`) y el nivel de los encabezados (`#` → `##`). Añadidos la puntuación de la lista y la sigla CDN. [Enlace al commit]([https://github.com/Gortegas1111/tarea_cms_ssg/commit/HASH](https://github.com/Gortegas1111/tarea_cms_ssg/pull/2/changes/b4beee778d4d73be9300acfb7b77521668830397)) | `Corrige ortografía y formato de ssg.md` |
 
-*Este apartado lo debe completar Goethe Ortega cuando responda a las propuestas y realice las correcciones correspondientes.*
