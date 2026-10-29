@@ -1,24 +1,21 @@
-##  Generadores de sitios estáticos
+## Generadores de sitios estáticos
 
-Un SSG se encarga de obtener archivos, datos y los carga en conjunto con archivos 
-de HTML, CSS y JavaScript durante su compilación para generar un sitio web, esto 
-acompañado de la red de distribución de contenidos, para transformar los archivos en 
-una página web utilizan plantillas escritas en HTML.
+Un SSG se encarga de obtener archivos y datos, y de cargarlos junto con archivos HTML, CSS y JavaScript durante su compilación para generar un sitio web. Todo esto va acompañado de la red de distribución de contenidos (CDN). Para transformar los archivos en una página web, utilizan plantillas escritas en HTML.
 
-![ssg](imagenes\maxresdefault.jpg)
+![ssg](imagenes/maxresdefault.jpg)
 
-## ventajas 
+## Ventajas
 
-- ligereza de la página web
-- se cargan en mayor velocidad al usuario
-- contienen un backend que no usa mucho código al momento de ejecutarse en los servidores.
+- Ligereza de la página web.
+- Se cargan con mayor velocidad para el usuario.
+- Contienen un *back-end* que no usa mucho código al ejecutarse en los servidores.
 
-## video
+## Vídeo
 
 https://youtu.be/AkQM7w1M-2U?si=Oq6e50yKTBdwdux9
 
-# Comparativa: Jekyll, Hugo y Astro
- 
+## Comparativa: Jekyll, Hugo y Astro
+
 | **Característica** | **Jekyll** | **Hugo** | **Astro** |
 | :--- | :--- | :--- | :--- |
 | **Lenguaje** | Ruby | Go | JavaScript |
@@ -30,12 +27,10 @@ https://youtu.be/AkQM7w1M-2U?si=Oq6e50yKTBdwdux9
 | **Inconveniente** | Lento con muchos archivos | Más limitado | Requiere configuración |
 | **GitHub Pages** | Integración directa | GitHub Actions | GitHub Actions |
 
-# Conclusión
+## Conclusión
 
 Jekyll, Hugo y Astro permiten crear páginas web usando Markdown.
 
 - Jekyll destaca por su integración con GitHub Pages.
-
 - Hugo destaca por su velocidad.
-
 - Astro destaca por su buen rendimiento con JavaScript.
